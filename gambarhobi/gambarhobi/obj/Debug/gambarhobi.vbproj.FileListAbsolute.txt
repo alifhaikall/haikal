@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\gambarhobi\gambarhobi\bin\Debug\gambarhobi.exe.config
+C:\Users\User\source\repos\gambarhobi\gambarhobi\bin\Debug\gambarhobi.exe
+C:\Users\User\source\repos\gambarhobi\gambarhobi\bin\Debug\gambarhobi.pdb
+C:\Users\User\source\repos\gambarhobi\gambarhobi\bin\Debug\gambarhobi.xml
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.Form1.resources
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.Form2.resources
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.Form3.resources
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.Form4.resources
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.Resources.resources
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.exe
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.xml
+C:\Users\User\source\repos\gambarhobi\gambarhobi\obj\Debug\gambarhobi.pdb
